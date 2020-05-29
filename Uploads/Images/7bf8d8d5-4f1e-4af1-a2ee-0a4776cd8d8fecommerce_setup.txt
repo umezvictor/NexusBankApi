@@ -1,0 +1,535 @@
+SOURCE CODE & PROJECTS
+Projects, Tutorials, and more
+
+ 
+Home
+Languages 
+App Projects 
+
+ 
+E-commerce -Site in PHP with source code
+PHP PROJECTS
+E-COMMERCE SITE IN PHP WITH SOURCE CODE
+July 9, 2018Fabian Ros224 Comments
+Project: E-commerce Site in PHP with source code
+
+– To download E-commerce Site project for free (scroll down)
+
+About Project
+E-commerce site project is developed using PHP, CSS, Bootstrap, and JavaScript. Talking about the project, it has all the required essential features. This project has a user side where he/she can view product category and add products to cart and proceed for checkout whereas from administration side he/she can view sales, number of product, users, daily sales report, add product and categories. The user can also leave comments on each product if he/she wants. In this project, all the main functions are performed from the Admin side.
+
+About System
+Admin has full control of the system, he/she can view daily/monthly sales report for each year, manage all existing users, add, view, edit, delete products and categories. Monthly sales report is represented in the form of Bar Graphs. While adding products, the admin has to provide Product’s name, select category, price, upload product’s photo and write a description. Adding a product category is simple, the admin just has to provide Category name. Just like the other popular e-commerce, here while looking a product’s image the images magnifies whenever mouse cursor is dragged onto it. The system redirects to Paypal for checkout. A responsive dashboard is provided in the admin panel for the easy management of the site.
+
+In short, this E-commerce site in PHP project is a bit similar with a WordPress e-commerce site. Mostly, the adding description has the same feature of that of WordPress. All the important features that are required for an eCommerce site is set for this project. Design of this project is pretty simple and responsive so that user won’t find it difficult to understand, use and navigate.
+
+To run this project you must have installed virtual server i.e XAMPP on your pc (for Windows). E-commerce Site in PHP is free to download with source code. For the project demo, have a look at the video below.
+
+
+Features:
+
+Admin Panel
+Login/Sign Up
+Magnify product image
+Product Cart
+Google ReCaptcha
+Checkout using Paypal
+Add, Edit, Remove and View Products
+User Management
+View daily/monthly sales
+How To Run??
+After Starting Apache and MySQL in XAMPP, follow the following steps
+
+1st Step: Extract file
+2nd Step: Copy the main project folder
+3rd Step: Paste in xampp/htdocs/
+
+Now Connecting Database
+
+4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
+5th Step: Then, click on databases tab
+6th Step: Create database naming “ecomm” and then click on import tab
+7th Step: Click on browse file and select “ecomm.sql” file which is inside “database” folder
+8th Step: Click on go.
+
+After Creating Database,
+
+9th Step: Open a browser and go to URL “http://localhost/ecommerce/”
+For Admin Panel
+Final Step: Login from the User’s login side. Just provide the Admin’s login detail, it will redirect you to Admin panel.
+Note: Don’t go to URL “http://localhost/ecommerce/admin” for Admin Panel. Just provide Admin’s login detail in User’s login side.
+Provide the username and password which is provided inside the “Readme.txt” file.
+
+LOGIN DETAILS ARE PROVIDED IN “Readme.txt” FILE INSIDE PROJECT FOLDER
+DOWNLOAD E-COMMERCE SITE IN PHP WITH SOURCE CODE: CLICK THE BUTTON BELOW
+ 
+
+ 
+  Download Project
+
+
+ 
+More Under: bootstrap, css, javascript, PHP
+Post navigation
+Next Article
+Liquor Information Application In Android With Source Code
+Previous Article
+Traffic Offense Reporting System In PHP With Source Code
+You May Also Like
+multiplication game
+JAVASCRIPT PROJECTS
+Multiplication Game In JavaScript With Source Code
+April 20, 20200 Comments
+Project: Multiplication Game In JavaScript With Source Code Please scroll down and click on the down button to download…
+
+ 
+tank fill up
+JAVASCRIPT PROJECTS
+Tank Fill-up In JavaScript With Source Code
+April 18, 20200 Comments
+Project: Tank Fill-up In JavaScript With Source Code Please scroll down and click on the download button to…
+todo list
+JAVASCRIPT PROJECTS
+ToDo List In JavaScript With Source Code
+April 12, 20200 Comments
+Project: ToDo List In JavaScript With Source Code -To download ToDo List In JavaScript for free(Scroll Down) The ToDo List…
+
+ 
+snake
+JAVASCRIPT PROJECTS
+The Snake Game In JavaScript With Source Code
+April 11, 20200 Comments
+Project: The Snake Game In JavaScript With Source Code Please scroll down and click on the download button…
+quiz
+JAVASCRIPT PROJECTS
+Quiz In JavaScript With Source Code
+April 9, 20200 Comments
+Project: Quiz In JavaScript With Source Code Please scroll down and click on the down button to download Quiz…
+224
+ Leave a Reply
+ avatar 
+Join the discussion...
+128  96  17     136  Binyam TesfayeaqeelanshDuckieSocialDuckieSoical
+  Subscribe  
+newest
+oldest
+most voted
+Lawrence Ansah-Addo
+Guest
+Lawrence Ansah-Addo
+Is it multi-vendor?
+
+Can you modify it into multi-vendor system? How long?
+
+0  Reply1 year ago
+Naseeb Bajracharya
+Guest
+Naseeb Bajracharya
+we might upload that feature too in upcoming days!! 🙂
+
+0  Reply1 year ago
+kohli
+Guest
+kohli
+please complete the sign up.
+i tired to fix phpmailer.
+
+1  Reply1 year ago
+umiza
+Guest
+umiza
+lanat
+
+0  Reply4 months ago
+Japs Ralph
+Guest
+Japs Ralph
+How do you change the currency?
+
+2  Reply1 year ago
+Atif
+Guest
+Atif
+sir never downloading the file through google drive 🙁
+help me sir
+
+0  Reply1 year ago
+pami
+Guest
+pami
+help me durdana
+
+0  Reply4 months ago
+ndkanna
+Guest
+ndkanna
+there is no database folder
+
+0  Reply1 year ago
+Prashant
+Guest
+Prashant
+There is no add to card option at all. I fixed the SMTP problem tho.
+
+1  Reply1 year ago
+Ruben
+Guest
+Ruben
+Hi Prasanth, could you help me on how you solved the SMTP problem to send authentication via email?? Thanks
+
+0  Reply5 months ago
+Ruben
+Guest
+Ruben
+can you help me out on how you fixed SMTP problem
+
+0  Reply5 months ago
+Somebody
+Guest
+Somebody
+Hello, why do you use ‘slug’ when displaying single product, why not use ‘id’ which will be unique (auto-increment in table). Isn’t it like the standard method, go by id? what if there are 2 or more similar ‘slug’ fields?
+
+4  Reply1 year ago
+Vindhu
+Guest
+Vindhu
+Sir ,I cant see any payment options in cart view.
+How can the user or existing user pay and process the transaction?
+The Java script for PayPal is there but where is it connected?
+
+0  Reply1 year ago
+safaf
+Guest
+safaf
+can I get the souce code for triigering (for User status) and stored procedure that you used here
+
+0  Reply1 year ago
+guest
+Guest
+guest
+Can you add quantity in this ecommerce and when the customer buy a product the quantity will deduct on how many he buys
+
+0  Reply1 year ago
+Saumya
+Guest
+Saumya
+How to properly installed ….
+Please give me a YouTube video
+I am student. I don’t know how is it possible. So…
+
+1  Reply1 year ago
+hyni mohamed
+Guest
+hyni mohamed
+contact me on email mohamedhyni@gmail.com
+
+0  Reply5 months ago
+joshua
+Guest
+joshua
+why is that register.php is blank? Can you fix this? thanks
+
+0  Reply1 year ago
+jun
+Guest
+jun
+admin panel when click on more info showing url return is not found
+
+0  Reply1 year ago
+sourabh42@gmail.com
+Guest
+sourabh42@gmail.com
+smtp authentication error
+
+0  Reply1 year ago
+faruk
+Guest
+faruk
+how to deploy on real time server ? where is ipconfig file ?
+
+0  Reply1 year ago
+Piyush
+Guest
+Piyush
+Nice Work can i host this project for testing purpose?.
+
+0  Reply1 year ago
+soso
+Guest
+soso
+session login not work how fix it
+
+0  Reply1 year ago
+siva
+Guest
+siva
+sir
+Message could not be sent. Mailer Error: SMTP Error: Could not authenticate
+I am getting this error on forgot password page
+can u please tell how to fix this error
+where can i change Gmail and password parameters in phpmailer
+
+0  Reply1 year ago
+Sachin
+Guest
+Sachin
+E-commerce Site In PHP With Source Code
+
+I Have One This Project How to solve
+Error This :Warning: mktime(): It is not safe to rely on the system’s timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone ‘UTC’ for now, but please set date.timezone to select your timezone. in C:xampphtdocsecommerceadminhome.php on line 218
+
+0  Reply1 year ago
+irbaz
+Guest
+irbaz
+not working E-commerce Site
+
+0  Reply1 year ago
+irbaz
+Guest
+irbaz
+error not showing number of user,total sales,number of product,sales today. in admin panel dashboard please help me.what can i do
+
+0  Reply1 year ago
+Irbaz
+Guest
+Irbaz
+Sir where is book.php,student.php,return.php and borrow.php files can you please tell me sir
+
+0  Reply1 year ago
+lusty
+Guest
+lusty
+one of the best projects… can i modify and use for personal uses?
+
+and how can i link my facebook comments to each product?
+
+0  Reply1 year ago
+Nikola Jovanovski
+Guest
+Nikola Jovanovski
+Hello, I am having a problem with SMTP, any help with that what should I do to get it fixed ?
+
+0  Reply1 year ago
+nur hidayati
+Guest
+nur hidayati
+hai can i ask you is it can register to another admin..if i want to be another admin what i want to do..?
+i want the user who register the website to be admin how i want to do it? can you help me..
+
+0  Reply1 year ago
+suabrashi
+Guest
+suabrashi
+what will i put in database ?
+id ?
+name ?
+
+0  Reply1 year ago
+Christopher
+Guest
+Christopher
+Hello can you help me i want to change the pay pal payment to local payment when a customer pay the details goes direct to a database instead of paypal the java script codes confuse me please help
+
+0  Reply1 year ago
+3cy
+Guest
+3cy
+Hello, how can I change the background color of the main content and everything??
+
+0  Reply1 year ago
+webdeveloperr
+Member
+webdeveloperr
+How can i add subcategory functionality in this code?
+
+0  Reply1 year ago
+Muhammad Danial
+Guest
+Muhammad Danial
+please “Message could not be sent. Mailer Error: SMTP Error: Could not authenticate.” please fix this or tell solution in signup process.. Thanks in advance
+
+2  Reply1 year ago
+sudamericano
+Guest
+sudamericano
+MUY BUENO..!
+
+0  Reply1 year ago
+Adarsh
+Guest
+Adarsh
+My website is not running plzz tell me fast plzz
+
+-1  Reply1 year ago
+Kripaja Thomas
+Guest
+Kripaja Thomas
+sir,
+I can’t find the file Readme.txt in project folder. How I know existing admin user name and password?
+
+0  Reply1 year ago
+Fabian Ros
+Author
+Fabian Ros
+we always provide 2 text files named as “READ ME FIRST.txt” and “01 READ ME FIRST.txt”. look through project files. if you can’t find it, redownload it and check!
+
+0  Reply1 year ago
+notsodeft
+Member
+notsodeft
+which css file should i open to edit things such as background, buttons etc?
+
+0  Reply1 year ago
+Irbaz
+Guest
+Irbaz
+Sir in registration page google recapcha is not showing what is the problem. Can you please tell me
+
+0  Reply1 year ago
+Irbaz
+Guest
+Irbaz
+Sir what is the password for christine@gmail.com
+
+0  Reply1 year ago
+Rajat Mishra
+Guest
+Rajat Mishra
+Parse error: syntax error, unexpected ‘[‘, expecting ‘)’ in C:xampphtdocsecommerceincludessession.php on line 14 .. This error is showing pls tell me the solution. It’s urgent I want to add this full website in my project.
+
+0  Reply1 year ago
+Rajat Mishra
+Guest
+Rajat Mishra
+Parse error: syntax error, unexpected ‘[‘, expecting ‘)’ in C:xampphtdocsecommerceincludessidebar.php on line 13 .. The sidebar is giving the same error0.
+
+0  Reply1 year ago
+Junaid
+Guest
+Junaid
+Sir, I’ve an issue with this project. New Categories not added through admin panel. It’s been showing error while adding new category in this. Also is there any option to change payment mode from pay-pal to cash. Kindly update me regarding this. I will be thankful to you.
+
+0  Reply1 year ago
+rbs
+Guest
+rbs
+hi sir,
+i am getting recaptcha error. how to solve it.
+i’m generate recaptcha key and paste it .but i’m also getting error.
+how to resolve it, please help me.
+
+0  Reply1 year ago
+Morivm
+Guest
+Morivm
+cat slug wont insert in in database category
+
+0  Reply1 year ago
+asdadad
+Guest
+asdadad
+how to add another user?
+
+0  Reply1 year ago
+Irbaz
+Guest
+Irbaz
+Error while registration. Email is not sending while registrating. Error is message could not be sent. Mailer error: SMTP Error: could not authenticate.
+
+Sir how can i solve this error ple
+ase inform me
+
+0  Reply1 year ago
+Joshua Jenkins
+Guest
+Joshua Jenkins
+Why do none of the dashboard links for “total sales”, “number of products”, “number of users” and “sales today” work?
+
+0  Reply1 year ago
+Keita
+Guest
+Keita
+Hello sir
+i did all following step except stept 9 it said object not found
+What can i do sir??
+Thanks u
+
+0  Reply1 year ago
+Yakshita
+Guest
+Yakshita
+Not able to open admin panel
+cant load only
+
+-1  Reply1 year ago
+Sif
+Guest
+Sif
+Hi. This is a great work. Can you paginate the products in category.php to have a limit on how much products will we displayed. just a suggestion. Thanks.
+
+0  Reply1 year ago
+SDM
+Guest
+SDM
+Help! it says ::
+Parse error: syntax error, unexpected ‘[‘, expecting ‘)’ in C:xampphtdocsES_PHPecommerceincludessession.php on line 14
+
+0  Reply1 year ago
+helpadmin
+Guest
+helpadmin
+Hey admin can you make a step by step on how to fix this SMTP mailer error , badly needed thanks.
+
+0  Reply1 year ago
+baron
+Guest
+baron
+How to change background color!!??
+
+0  Reply1 year ago
+kee
+Guest
+kee
+i have some problem about code execution. after following the steps given in the instruction nothing is displayed when i try to open the page from the browser (google chrome)
+
+0  Reply1 year ago
+bardog
+Guest
+bardog
+Hello, I was getting an error which stated SQLState420000 1046 you have an error in your sql syntax, check the manual that corresponds with your Mariadb server version for the right syntax to use where=’27” at line 1, I’ve checked the admin/ product and admin/product edit and tried to altered things but none do so . I’ve tried to checked the answer but It seems that my little brain cannot function properly because I haven’t got a long ass sleep. Please consider helping with me with this, Thank you so much. 🙂
+
+0  Reply1 year ago
+bardog
+Guest
+bardog
+??
+
+0  Reply1 year ago
+darshan
+Guest
+darshan
+did you get the solution of ur problem?
+
+0  Reply3 months ago
+Load More Comments
+Search…
+
+
+
+
+ 
+ 
+Home
+
+Language
+
+Tutorials
+
+How to ?
+
+About Source Code & Projects
+Source Code & Projects is developed to provide beginners with tutorials, source code, and projects to build their technical knowledge and exchange ideas. We hope to provide students with interesting and relevant downloadable open source projects for free. Visit us to join our Source Code Projects organization.
+TL;DR We are fast becoming best open source code & projects organization - Code Projects is developed to provide interested people with resources to build their knowledge, and exchange ideas. We hope to provide anyone with necessary and relevant content projects they need to practice and help in their daily programming career. We provide tutorials, free source codes and how to’s? to get started with projects that might interest you. Please feel free to use it for educational purposes. The source code for the projects available is based on different computer programming languages such as C/C++, PHP, Java, Javascript, VB.Net, https://code-projects.org/c/languages/project/c-sharp-projects/C#, Python and Swift. We are also the go-to platform to find the source code for the application project. If you want to be a game developer or android developer, we can help you get started with our list of game app projects and Android app projects. So feel free to choose whichever language you want to begin your project. What more, we also provide beginners with C Tutorial, C++ Tutorial, Java Tutorial, PHP Tutorial, JavaScripts Tutorial, and Python Tutorial. Visit Source Code & Project today to see how we can help build your career!
+Copyright 2017-2019 by SourceCode and Projects.
+

@@ -1,0 +1,9 @@
+victorblaze2010@gmail.com
+#1989Vic.
+
+<li class="nav-item">
+                                                <a class="nav-link" href="@Url.Action("CreateQuestion", "Question")">Add Question</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link" href="@Url.Action("Index", "Question")">View Questions</a>
+                                            </li>

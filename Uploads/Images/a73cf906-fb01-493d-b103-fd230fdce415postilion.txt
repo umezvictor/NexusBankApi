@@ -1,0 +1,12 @@
+does postilion store transaction data, user data, what type of data does it store
+what is a hot card
+eft networks
+acquirer vs issuer
+
+linq - expressions
+collections - iquerryable
+save
+efcore methods
+generics - T
+
+the christian life is a discovery of what you already have
